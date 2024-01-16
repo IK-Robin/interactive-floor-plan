@@ -1,11 +1,12 @@
 # interactive-floor-plan
 # Interactive Map Project
+# interactive svg map 
 Certainly! Creating a comprehensive and SEO-friendly documentation for your GitHub README.md file is essential for better visibility on search engines. Below is an example template that you can use as a starting point. Make sure to replace the placeholder content with information specific to your project.
 
 ```markdown
 # Interactive Map Project S2
 
-![Project Logo](link_to_your_logo_or_image)
+![Project Logo](https://ik-robin.github.io/interactive-floor-plan/)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,7 +32,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-map-project.git
+   git clone https://github.com/IK-Robin/interactive-floor-plan.git
    cd interactive-map-project
    ```
 
@@ -42,9 +43,9 @@ To run the project locally, follow these steps:
 2. Click on a home in the overview to see the floor plan and details.
 
 ## Demo
-See the live demo [here](link_to_your_live_demo).
+See the live demo [here](https://ik-robin.github.io/interactive-floor-plan/).
 
-![Demo Screenshot](link_to_demo_screenshot)
+![Demo Screenshot](https://ik-robin.github.io/interactive-floor-plan/)
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
